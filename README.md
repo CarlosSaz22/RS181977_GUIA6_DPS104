@@ -4,6 +4,6 @@ Estudiante : Carlos José Ruiz Saz
 <br>
 Link de expo :
 <br>
-Procedimiento : https://snack.expo.dev/@saz22/citas
+Procedimiento : https://snack.expo.dev/@saz22/agencia-de-viajes-parte-2
 <br>
-Ejercicio complementario : https://snack.expo.dev/@saz22/reserva-de-restaurante
+Ejercicio complementario : https://snack.expo.dev/@saz22/hotel
